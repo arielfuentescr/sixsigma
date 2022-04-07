@@ -1,0 +1,2 @@
+C:\xampp\mysql\bin
+mysqldump -u ariel -p proyect > proyect.sql

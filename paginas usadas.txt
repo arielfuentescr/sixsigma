@@ -1,0 +1,6 @@
+https://www.chartjs.org
+https://getbootstrap.com/
+https://www.php.net/manual/en/function.phpinfo.php
+https://stackoverflow.com/
+https://www.w3schools.com/mysql/
+https://github.com/StartBootstrap/
